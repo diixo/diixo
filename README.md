@@ -1,5 +1,6 @@
-
-<img src="https://github.com/diixo/diixo/main/repository-diixo.png" width="60%" alt="black Bloomberg Engineering logo on white background">
+<div align="left">
+   <img src="https://github.com/diixo/diixo/blob/main/repository-diixo.png" width="60%" alt="black Bloomberg Engineering logo on white background">
+</div>
 
 - 👋 Hi, I’m @diixo
 - 👀 I’m interested in c++
