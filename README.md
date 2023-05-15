@@ -1,5 +1,5 @@
 <div align="left">
-   <img src="https://github.com/diixo/diixo/blob/main/repository-diixo.png" width="60%" alt="black Bloomberg Engineering logo on white background">
+   <img src="https://github.com/diixo/diixo/blob/main/repository-diixo-960x480.png" width="50% height="50%" alt="black Bloomberg Engineering logo on white background">
 </div>
 
 - 👋 Hi, I’m @diixo
