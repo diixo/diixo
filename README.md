@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 * [Char2Vec](https://github.com/diixo/Char2Vec)
 * [RNN-LSTM-Implementation](https://github.com/diixo/RNN-LSTM-Implementation)
 * [DeepLearning.AI-TensorFlow_Developer-specialization](https://github.com/diixo/DeepLearning.AI-TensorFlow_Developer-specialization) : **C3W4_Assignment.ipynb**
-* [llm_engineering](https://github.com/diixo/llm_engineering)
+* [llm_engineering](https://github.com/diixo/llm_engineering) ** (8 weeks LLMs active course from Luxoft)
 
 ### Keras resources
 * [keras-resources](https://github.com/diixo/keras-resources)
