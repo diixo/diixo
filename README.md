@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 * [NanoGPT-ch-level](https://github.com/diixo/NanoGPT-ch-level)
 * [gpt2-spell-checker](https://github.com/diixo/gpt2-spell-checker)
 * [spelling_correction_project](https://github.com/diixo/spelling_correction_project)
+* [Andrej Karpathy prompt generate.ipynb](https://github.com/diixo/minGPT/blob/master/generate.ipynb)
 
 
 * [Char2Vec](https://github.com/diixo/Char2Vec)
